@@ -1,0 +1,27 @@
+.vermelho {
+    color: #f00;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blueviolet;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 36px;
+}
+
+.texto_grande {
+    font-size: 60px;
+}
+
+#titulo_h2 {
+    background-color: pink;
+}
+
+#titulo_h2-1 {
+ color: greenyellow;   
+}
